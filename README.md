@@ -250,13 +250,6 @@ This message shows that your installation appears to be working correctly.
 
 ## Great Job, Now start with the examples folder to write your first Dockerfile and move to the next examples. Happy Learning :)
 
-### Clone this repository and move to example folder
-
-```
-git clone https://github.com/iam-veeramalla/Docker-Zero-to-Hero
-cd  examples
-```
-
 ### Login to Docker [Create an account with https://hub.docker.com/]
 
 ```
